@@ -18,6 +18,7 @@ public class SimpleTests {
 
     WebDriver driver;
 
+
     @BeforeEach
     public void setup(){
         WebDriverManager.chromedriver().setup();

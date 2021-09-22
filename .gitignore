@@ -1,3 +1,5 @@
 /.idea/
 /Epias Test Automation DOJO.iml
 /target/
+*.iml
+
